@@ -1,0 +1,19 @@
+{
+  "name": "ew-how-to-use-gpt-api",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "handsontable": "^16.2.0",
+    "pdfjs-dist": "^5.4.394",
+    "sweetalert2": "^11.26.3"
+  }
+}
